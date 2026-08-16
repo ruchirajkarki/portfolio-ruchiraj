@@ -98,7 +98,7 @@ const SocialIcons = () => {
       </div>
       <a
         className="resume-button"
-        href="/ruchi_raj_cv.pdf"
+        href="/resume_ruchi_raj_karki.pdf"
         target="_blank"
         rel="noreferrer"
       >
